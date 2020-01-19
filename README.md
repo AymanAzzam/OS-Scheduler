@@ -1,5 +1,5 @@
 # OS Scheduler
-Creating Processes and attach time for each process then Apply Scheduling Algorithms:
+Creating Processes and attach time for each process then Apply Scheduling Algorithms.
 
 1. First Come First Serve (FCFS).
 
