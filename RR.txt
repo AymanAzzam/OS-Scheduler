@@ -1,0 +1,9 @@
+Waiting time for each process              ->  [0. 0.] 
+
+Turn around time for each process          ->  [5. 9.] 
+
+Weighted Turn around time for each process ->  [1. 1.] 
+
+Average Turn around time                   ->  7.0 
+
+Average weighted Turn around time          ->  1.0
